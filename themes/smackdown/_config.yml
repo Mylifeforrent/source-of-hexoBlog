@@ -36,10 +36,10 @@ open_in_new: false
 baidu_tongji: true
 google_analytics: true
 
-favicon: http://pics.sc.chinaz.com/files/pic/pic9/201511/apic16077.jpg
+#favicon: http://pics.sc.chinaz.com/files/pic/pic9/201511/apic16077.jpg
 
 #你的头像url
-avatar: http://pics.sc.chinaz.com/files/pic/pic9/201511/apic16077.jpg
+#avatar: http://pics.sc.chinaz.com/files/pic/pic9/201511/apic16077.jpg
 
 #是否开启分享
 share: true
